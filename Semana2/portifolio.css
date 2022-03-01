@@ -1,0 +1,27 @@
+body{
+    background-color: silver;
+    font-size: 100%
+}
+
+h1{
+    color:white;
+    background-color: blue;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+}
+strong{
+    color:blue;
+    font-size: 150%;
+}
+
+h1, h2{
+    font-family: serif;
+}
+p{
+    font-family: 'Times New Roman';
+    text-align: justify;
+    
+}
